@@ -1,0 +1,46 @@
+{
+    "packages": [
+        {
+            "name": "cangzms/cars",
+            "version": "1.0",
+            "version_normalized": "1.0.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/cangzms/randomCars.git",
+                "reference": "16af237ebf0fd1ff7061aa9c2076b75601da2eae"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/cangzms/randomCars/zipball/16af237ebf0fd1ff7061aa9c2076b75601da2eae",
+                "reference": "16af237ebf0fd1ff7061aa9c2076b75601da2eae",
+                "shasum": ""
+            },
+            "time": "2020-12-20T20:41:02+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "RandomCars\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "cangzms",
+                    "email": "ismailcangezmis@gmail.com"
+                }
+            ],
+            "description": "Random car brand and model generator.",
+            "support": {
+                "issues": "https://github.com/cangzms/randomCars/issues",
+                "source": "https://github.com/cangzms/randomCars/tree/1.0"
+            },
+            "install-path": "../cangzms/cars"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}

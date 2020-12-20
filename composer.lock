@@ -1,0 +1,56 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "8ad11ac00cff2a07a137109f5603833e",
+    "packages": [
+        {
+            "name": "cangzms/cars",
+            "version": "1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/cangzms/randomCars.git",
+                "reference": "16af237ebf0fd1ff7061aa9c2076b75601da2eae"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/cangzms/randomCars/zipball/16af237ebf0fd1ff7061aa9c2076b75601da2eae",
+                "reference": "16af237ebf0fd1ff7061aa9c2076b75601da2eae",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "RandomCars\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "cangzms",
+                    "email": "ismailcangezmis@gmail.com"
+                }
+            ],
+            "description": "Random car brand and model generator.",
+            "support": {
+                "issues": "https://github.com/cangzms/randomCars/issues",
+                "source": "https://github.com/cangzms/randomCars/tree/1.0"
+            },
+            "time": "2020-12-20T20:41:02+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.0.0"
+}
